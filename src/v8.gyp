@@ -400,6 +400,8 @@
         '../include/v8-version.h',
         '../include/v8.h',
         '../include/v8config.h',
+	'V8NativeScriptExtension.cc',
+	'V8NativeScriptExtension.h',
         'accessors.cc',
         'accessors.h',
         'address-map.cc',
